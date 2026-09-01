@@ -1,0 +1,7 @@
+{
+  "name": "Safe Care",
+  "description": "Waste management and recycling tracker for homes and communities with collection schedules, smart sorting guidelines, and community drop-off points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
